@@ -17,7 +17,7 @@ body {
 }
 
 main {
-  background: url(images/background.png);
+  background: url(images/background.svg);
 
   width: 375px;
   height: 812px;
@@ -39,7 +39,7 @@ main {
 
 .avatar span {
   position: absolute;
-  top: -20px;
+  top: -15px;
   z-index: 1;
 }
 
