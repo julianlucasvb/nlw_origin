@@ -10,15 +10,12 @@ body {
   font-family: 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
 }
-
 body {
   display: grid;
   place-items: center;
 }
-
 main {
   background: url(images/background.svg);
-
   width: 375px;
   height: 812px;
 }
