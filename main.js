@@ -1,6 +1,6 @@
 const linksSocialMedia = {
   github: 'julianlucasvb',
-  youtube: 'UCrPEneR4H7oZzeeDkXQJP1w',
+  youtube: 'channel/UCrPEneR4H7oZzeeDkXQJP1w',
   facebook: 'julianlucasvb',
   instagram: 'julianlucasvb',
   twitter: 'julianlucasvb'
